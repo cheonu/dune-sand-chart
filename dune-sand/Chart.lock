@@ -1,0 +1,9 @@
+dependencies:
+- name: arrakis
+  repository: file://../arrakis
+  version: 0.1.0
+- name: sietch
+  repository: file://../sietch
+  version: 0.1.0
+digest: sha256:40e7cae46878a25bc991bb1156422d3f355df2c2225f08cc7c6db0681b9c61e5
+generated: "2024-01-04T16:35:07.686284-05:00"

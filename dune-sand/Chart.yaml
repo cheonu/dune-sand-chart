@@ -1,0 +1,12 @@
+apiVersion: v2
+name: dune-sand
+description: A Helm chart for Kubernetes
+version: 0.1.0
+appVersion: "1.16.0"
+dependencies:
+  - name: arrakis
+    version: "0.1.0"
+    repository: "file://../arrakis"
+  - name: sietch
+    version: "0.1.0"
+    repository: "file://../sietch"
